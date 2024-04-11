@@ -1,0 +1,2 @@
+# ClaseIAbasic
+Learning Ai 
